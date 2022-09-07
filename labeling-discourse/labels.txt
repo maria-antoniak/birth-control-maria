@@ -1,17 +1,18 @@
-weighing options
-humor
-politics
-meta discussion
-negative self-disclosure
-positive self-disclosure
-seeking emotional support
-seeking information
-seeking advice
-seeking experiences
-seeking normalcy
-providing emotional support
-providing information
-providing advice
-narrating personal experiences
-providing personal experiences
-providing secondhand experiences
+META DISCUSSION
+SEEKING EMOTIONAL SUPPORT
+SEEKING INFORMATION
+SEEKING ADVICE
+SEEKING NORMALITY
+SEEKING EXPERIENCES
+SHARING EMOTIONAL SUPPORT
+SHARING INFORMATION
+SHARING ADVICE
+SHARING NORMALITY
+SHARING EXPERIENCES
+SHARING/DESCRIBING ADDITIONAL RESEARCH
+SHARING FUTURE PLANS
+SHARING CAUSAL REASONING / HYPOTHESIZING
+SHARING OPINIONS AND PREFERENCES
+SHARING POSITIVE EMOTIONS
+SHARING NEGATIVE EMOTIONS
+SHARING PERSONAL BACKGROUND

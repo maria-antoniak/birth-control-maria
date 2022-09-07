@@ -1,17 +1,19 @@
-weighing options
-humor
-politics
-meta discussion
-negative self-disclosure
-positive self-disclosure
-seeking emotional support
-seeking information
-seeking advice
-seeking experiences
-seeking normalcy
-providing emotional support
-providing information
-providing advice
-narrating personal experiences
-providing personal experiences
-providing secondhand experiences
+DESCRIBING FUTURE PLANS
+HYPOTHESIZING
+DESCRIBING SENSEMAKING PROCESS
+META DISCUSSION
+DISCLOSING POSITIVE EMOTIONS
+DISCLOSING NEGATIVE EMOTIONS
+DISCLOSING IDENTITY
+WEIGHING OPTIONS
+SEEKING EMOTIONAL SUPPORT
+SEEKING INFORMATION
+SEEKING ADVICE
+SEEKING NORMALITY
+SEEKING EXPERIENCES
+PROVIDING EMOTIONAL SUPPORT
+PROVIDING INFORMATION
+PROVIDING ADVICE
+PROVIDING NORMALITY
+PROVIDING PERSONAL EXPERIENCES
+PROVIDING SECONDHAND EXPERIENCES
