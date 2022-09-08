@@ -17,39 +17,6 @@ thank yous
 
 
 ========================================
-DESCRIBING FUTURE PLANS
-========================================
-
-future plans, can be uncertain
-“I’m going to my IUD inserted this afternoon.”
-“I’m planning to start birth control next month.”
-"I'm thinking about counting it as a missed pill and taking another one just to cover all my bases."
-“I might get the implant” – ?
-“I’m thinking about taking another one just to cover all my bases."
-
-
-========================================
-HYPOTHESIZING
-========================================
-
-conjectures, explanations, diagnoses 
-needs to be about a particular person, not general explanations (which would be PROVIDING INFORMATION instead)
-"I think I may have had a cyst rupture, I've had this happened before and it has been that painful."
-"I know it will probably take up to six months for my body to readjust"
-"I'm thinking about counting it as a missed pill” 
-
-
-========================================
-DESCRIBING SENSEMAKING PROCESS
-========================================
-
-mentions of reading other people's stories and comments, doing research…
-“I’ve been reading all your comments.”
-“After looking at all my options, I decided to start the pill.”
-“I talked with my doctor about the IUD and learned that the insertion can be painful.”
-
-
-========================================
 META DISCUSSION
 ========================================
 
@@ -57,6 +24,7 @@ must still be related to birth control and health
 rants, conversation-starters, opinions that aren’t just about personal decisions
 humor, politics
 "I love how sex positive all the IUD commercials are"
+“People are more likely to post horror stories online”
 "Why don't doctors warn women about all these side effects?"
 "How would your life be different if you stopped taking birth control?"
 "While the article was interesting, I find some of its claims about the IUD weird."
@@ -68,61 +36,6 @@ national policies, funding, political and religious stances
 "birth control is the second best thing a woman can put in her mouth to prevent pregnancy" 
 NOT thank you, sorry, meta-comments about the subreddit (mods, banning, rules) (not about birth control)
 NOT personal attacks, comments about other people's comments ("you're being mean to OP") (not about birth control)
-
-
-========================================
-DISCLOSING POSITIVE EMOTIONS
-========================================
-
-expressing personal relief/happiness/satisfaction
-emotions NOT opinions
-"I'm excited to get this Nexplanon taken out of my arm."
-"I cannot wait to get it out even though it’s also done a lot of good for me." (both positive and negative!)
-NOT thank you (even if "thank you, you put my mind at ease"); it needs to be about birth control, not internet interactions
-NOT general value statements (“I like the pill”) and comparisons (e.g., "The pill is the best option")
-NOT just emoji or emoticons
-
-
-========================================
-DISCLOSING NEGATIVE EMOTIONS
-========================================
-
-sharing negative thoughts or emotions (worry, sadness, anger, fear) 
-"I'm worried that it might not be working."
-"I'm petrified to get this Nexplanon taken out of my arm."
-"I cannot wait to get it out even though it’s also done a lot of good for me." (both positive and negative!)
-"I cried like ten times yesterday."
-"This experience sucks."
-NOT value statements (“I hate the pill”) and comparisons (e.g., "The pill is the worst option")
-NOT physical pain alone (also needs an expression of sentiment)
-NOT just emoji or emoticons
-
-
-========================================
-DISCLOSING IDENTITY
-========================================
-
-statements about identity (age, gender, job, nationality, relationship status, etc.)
-"I'm getting married next month." 
-"I'm a nurse." 
-"I'm 15 years old."
-NOT "I prefer to keep things natural." 
-NOT “I have an IUD”
-
-
-========================================
-DISCLOSING PREFERENCES
-========================================
-
-“I like the pill”
-"The thing is, I've heard that skipping placebo pills like that can cause spotting and breakthrough bleeding and such, which I want to avoid at all costs."
-“Can’t stay on BC pills, bad acid reflux, want to stick with pills”
-"I began taking the combination pill (maexeni) mostly because I wanted to get rid of my period"
-"I love the implant and feel like this is my only option."
-“The IUD is the best choice for me.”
-“I stopped the pill because it made me erratic, but weight gain would be even worse.”
-“To me, taking the pill was a small price to pay to avoid having a period.”
-“If I could do it again, I wouldn't get the IUD.”
 
 
 ========================================
@@ -188,7 +101,7 @@ SEEKING EXPERIENCES
 
 
 ========================================
-PROVIDING EMOTIONAL SUPPORT
+SHARING EMOTIONAL SUPPORT
 ========================================
 
 explicitly providing reassurance, empathy, encouragement
@@ -202,7 +115,7 @@ NOT “that’s normal”
 
 
 ========================================
-PROVIDING INFORMATION
+SHARING INFORMATION
 ========================================
 
 factual information true in general, not providing direct advice
@@ -212,15 +125,16 @@ information about prices and access
 links to research or other educational sources
 "If you were to do this, then this would happen"
 “The IUD is longer lasting than the implant”
+“IUD Beats Pill at Preventing Pregnancy - WebMD: http://t.co/vpcDmI3X” (the link part would also be labeled as SHARING ADDITIONAL RESEARCH)
 NOT "You should do this" "Do this"
 
 
 ========================================
-PROVIDING ADVICE
+SHARING ADVICE
 ========================================
 
 advice to take a particular action for a particular situation
-imperatives, commands, “should”
+imperatives, commands, “should”, recommending specific actions
 "You should do this"
 "Do this"
 “If you don’t want to have a period, you should get the Mirena”
@@ -228,44 +142,135 @@ imperatives, commands, “should”
 "Use an app to track your period."
 “If I were you, I would…”
 can be incorrect, as long as it's presented as advice
+NOT “you can get it removed” (information not advice)
 
 
 ========================================
-PROVIDING NORMALITY
+SHARING NORMALITY
 ========================================
 
 "That's very, very normal."
-“I’ve also had that experience.”
 “It’s not weird that you had that experience.”
+“That’s not surprising”
 
 
 ========================================
-PROVIDING PERSONAL EXPERIENCES
+SHARING EXPERIENCES
 ========================================
 
-“I have used the pill and it worked well for me”
-"My cycles usually last 26 days."
-"I’m on norenthindrone .35"
+things that happened or are happening, not opinions and preferences
+“I’m on the pill”
+“I can feel the implant close to the surface of my skin”
 “I started birth control one month ago and immediately started getting worse periods.”
-"The doctor told me it was one of the lowest doses and should have had the least amount of side effects."
-"My doctor said this is common for the first 2-6 months..."
-"(Apart from the breakthrough bleeding, I've been very regular, always having my period late Monday, early Tuesday)."
 “Sometimes it feels so strong that I feel like I'm going to throw up; other times I feel a little queasy"
 
 
 ========================================
-PROVIDING SECONDHAND EXPERIENCES
+SHARING FUTURE PLANS
 ========================================
 
-News headlines about individual stories (not politics or research studies) ("Woman treated for emergency IUD...") (providing experiences?)
-"My sister had the Mirena and it was great overall."
-"Woman forced young girl to get birth control implant in her arm, police say"
+future plans
+“I’m going to get my IUD inserted this afternoon.”
+“I’m planning to start birth control next month.”
+
+
+========================================
+SHARING POSITIVE EMOTIONS
+========================================
+
+expressing personal relief/happiness/satisfaction
+emotions NOT opinions
+"I'm excited to get this Nexplanon taken out of my arm."
+"I cannot wait to get it out even though it’s also done a lot of good for me." (both positive and negative!)
+NOT value statements (“I like the pill”) and comparisons (e.g., "The pill is the best option")
+NOT thank you (even if "thank you, you put my mind at ease"); it needs to be about birth control, not internet interactions
+NOT just emoji or emoticons
+
+
+========================================
+SHARING NEGATIVE EMOTIONS
+========================================
+
+sharing negative thoughts or emotions (worry, regret, sadness, anger, fear) 
+emotions NOT opinions
+"I'm worried that it might not be working."
+"I'm petrified to get this Nexplanon taken out of my arm."
+"I cannot wait to get it out even though it’s also done a lot of good for me." (both positive and negative!)
+"I cried like ten times yesterday."
+"This experience sucks."
+NOT value statements (“I hate the pill”) and comparisons (e.g., "The pill is the worst option") 
+NOT physical pain alone (also needs an expression of emotion)
+NOT just emoji or emoticons
+
+
+========================================
+SHARING PERSONAL BACKGROUND
+========================================
+
+factual statements about personal background (age, gender, job, nationality, relationship status, other health conditions, etc.)
+"My cycles usually last 26 days."
+“I’m not currently sexually active.”
+"I'm getting married next month." 
+"I'm a nurse." 
+"I'm 15 years old."
+“I can’t use the pill because I get migraines”
+NOT “I have an IUD” (this would be SHARING EXPERIENCES)
+NOT opinions and preferences "I prefer to keep things natural." “I like the pill”
+NOT “I went to the doctor last month”  (this would be SHARING EXPERIENCES)
+
+
+======================================== 
+SHARING/DESCRIBING ADDITIONAL RESEARCH
+========================================
+
+any additional information gathering or research or testing that isn’t happening in the post itself
+anything with a link to an informative article (not political stuff or humor)
+tweets with information and links should be labeled both SHARING INFORMATION and SHARING/DESCRIBING ADDITIONAL RESEARCH
+asking questions and getting advice or diagnoses from doctors (NOT having medical procedures)
+“IUD Beats Pill at Preventing Pregnancy - WebMD: http://t.co/vpcDmI3X”
 "#News Update: Contraceptive Implant Gets Stuck In Woman And Doctors Still Can't Find It"
-NOT general news, needs to be about a specific person
+“I talked with my doctor about the IUD and learned that the insertion can be painful.”
+“After looking at all my options, I decided to start the pill.”
+"My sister had the Mirena and it was great overall."
+“I talked with my partner about weather we should use condoms”
+"Woman forced young girl to get birth control implant in her arm, police say"
+“As most people who are planning on getting an IUD, I started prepping myself by reading every single personal experience and article on the internet.”
+“I asked if that was possible and in the end she was just like ok worst case the implant doesn’t work and then what?”
+NOT “I did not research until after placement”
+NOT “I know it doesn’t affect everyone the same” (no sources or information seeking description)
 
 
-???
-“I’m considering either the patch or the ring”
+========================================
+CAUSAL REASONING / HYPOTHESIZING
+========================================
 
-???
-NARRATING PERSONAL EXPERIENCES → maybe this just needs to be a different label set, at the document not sentence level (or these are documents with multiple sentences in a row of SHARING PERSONAL EXPERIENCES)
+needs to be about physical things causing other physical things, not things causing mental decisions
+"I think I may have had a cyst rupture, I've had this happened before and it has been that painful."
+“it lasted for a few weeks, but i figure it was because of the change”
+“The pill caused my acne.” 
+“Probably started before then but because I wasn’t dating I didn’t notice.”
+“And seeing as I wasn’t on it long I’m assuming my libido should be back to normal in a few days?”
+“I'm wondering if this is a Mirena crash or just really bad PMS since my period is due Monday.”
+“I thought I would be fine since I was on the depo so long beforehand, and didn't even realize this could possibly be a symptom of the implant.”
+NOT “I got my IUD last week and this week I have acne.” (no explicit causal statement or hypothesis, just a sequence of events)
+
+
+========================================
+SHARING OPINIONS AND PREFERENCES
+========================================
+
+“I like the pill”
+“The IUD is a great method”
+“I love the concept of inserting it and forgetting about it”
+“I have used the pill and it worked well for me”
+“I’m excited to get my IUD removed”
+“yeah girl nexplanon for life”
+“Wow that sounds like everything I hope to happen (except the boobs shrinking)”
+"The thing is, I've heard that skipping placebo pills like that can cause spotting and breakthrough bleeding” and such, which I want to avoid at all costs."
+“Can’t stay on BC pills, bad acid reflux, want to stick with pills”
+"I began taking the combination pill (maexeni) mostly because I wanted to get rid of my period"
+"I love the implant and feel like this is my only option."
+“The IUD is the best choice for me.”
+“I stopped the pill because it made me erratic, but weight gain would be even worse.”
+“To me, taking the pill was a small price to pay to avoid having a period.”
+“If I could do it again, I wouldn't get the IUD.”
