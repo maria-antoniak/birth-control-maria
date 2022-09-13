@@ -48,7 +48,7 @@ NOT personal attacks, comments about other people's comments ("you're being mean
 SEEKING EMOTIONAL SUPPORT
 ========================================
 
-explicit requests for support as well
+explicit requests for support
 statements of current and future fears and worries
 NOT past fears and worries e.g. “So then I got worried” (sharing experiences)
 
@@ -97,9 +97,13 @@ NOT follow up questions (e.g., "Have you tried the pill?")
 SEEKING NORMALITY
 ========================================
 
+questions about how normal your experiences are
+if it can be interpreted as seeking normality, label it this, even if it could also be seeking emotional support (since this category is basically a sub-category of seeking emotional support, no need for both labels)
+
 "Is bleeding like this normal?"
 "Is it normal to get my period after missing one pill?"
 "Is my experience typical?"
+“Is this supposed to happen?”
 
 
 ========================================
@@ -225,11 +229,12 @@ NOT “I went to the doctor last month”  (this would be SHARING EXPERIENCES)
 SHARING/DESCRIBING ADDITIONAL RESEARCH
 ========================================
 
-any additional information gathering or research or testing that isn’t happening in the post itself
+additional information gathering or research or testing that isn’t happening in the post itself
+BUT it needs to be an explicitly information gathering activity (not just going to the doctor, but asking the doctor a question, planning to see the doctor to learn more about something)
 anything with a link to an informative article (not political stuff or humor)
 tweets with information and links should be labeled both SHARING INFORMATION and SHARING/DESCRIBING ADDITIONAL RESEARCH
 asking questions and getting advice or diagnoses from doctors 
-NOT descriptions of experiences at the doctor, like having medical procedures
+NOT descriptions of experiences at the doctor, like having medical procedures or going to the doctor, needs to be what the doctor says or advices
 
 “IUD Beats Pill at Preventing Pregnancy - WebMD: http://t.co/vpcDmI3X”
 "#News Update: Contraceptive Implant Gets Stuck In Woman And Doctors Still Can't Find It"
@@ -265,6 +270,7 @@ SHARING OPINIONS AND PREFERENCES
 “now I regret even having the IUD”
 “That shit was horrible”
 “The IUD is a great method”
+NOT “The IUD is great for preventing pregnancy” (sharing information)
 "I want to avoid additional menstrual pain at all costs."
 “Wow that sounds like everything I hope to happen (except the boobs shrinking)”
 "I began taking the combination pill (maexeni) mostly because I wanted to get rid of my period"
@@ -279,9 +285,6 @@ SHARING OPINIONS AND PREFERENCES
 “I stopped the pill because it made me erratic, but weight gain would be even worse.”
 “To me, taking the pill was a small price to pay to avoid having a period.”
 “If I could do it again, I wouldn't get the IUD.”
-
-
-
 
 
 
