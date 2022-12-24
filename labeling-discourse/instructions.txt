@@ -1,4 +1,0 @@
-GREEN if the current label applies to the text. 
-RED if the current label does NOT apply to the text.
-SKIP if you are unsure of the label or if there is some problem with the text (e.g., too short, non-English).
-GO BACK if you made a mistake.
